@@ -1,0 +1,52 @@
+
+
+
+body {
+    text-align: center;
+    /* background-color: #fefbd8; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.noktasizListe {
+    list-style-type: none;
+    display: inline;
+    padding-right: 20px;
+   
+}
+.noktaliListe {
+    
+    list-style-position: inside;
+    
+}
+li {
+    font-size: 24px;
+}
+img {
+    width: 200px;
+    border: 10px inset #618685;
+    border-radius: 20px;
+}
+nav {
+    background-color: #36486b;
+    
+}
+a {
+    text-decoration: none;
+    color: #fefbd8;
+    font-size: 26px
+    
+}
+a:visited {
+    color: #ebbeff;
+    text-decoration-color: ebbeff;
+}
+h1 {
+    color: #36486b;
+}
+h2 {
+    color: #4f1468;
+    font-size: 24px;
+}
+h3, p {
+    font-size: 18px;
+}
